@@ -1,0 +1,25 @@
+Script started on 2016年03月14日 (週一) 19時47分34秒
+]0;F74046438@2015cpp: ~/lab-1[01;32mF74046438@2015cpp[00m:[01;34m~/lab-1[00m$  scriptlab1.script\[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwhoami; pwd
+F74046438
+/home/F74046438/lab-1
+]0;F74046438@2015cpp: ~/lab-1[01;32mF74046438@2015cpp[00m:[01;34m~/lab-1[00m$ gitconfig-l config-l
+git: 'config-l' is not a git command. See 'git --help'.
+]0;F74046438@2015cpp: ~/lab-1[01;32mF74046438@2015cpp[00m:[01;34m~/lab-1[00m$ gitconfig-l config-l[C[C[C[C[C[C -l
+user.name=F74046438
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=https://github.com/F74046438/lab-1
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;F74046438@2015cpp: ~/lab-1[01;32mF74046438@2015cpp[00m:[01;34m~/lab-1[00m$ gitclonehttps://github.com/<your githubaccount>/lab1.git[C[1@ [C[C[C[C[C[1@ [1P[1@h[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1P>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[1Pt>/lab1.git[C[1P>/lab1.gitF>/lab1.git7>/lab1.git4>/lab1.git0>/lab1.git4>/lab1.git6>/lab1.git4>/lab1.git3>/lab1.git8>/lab1.git
+bash: F74046438: No such file or directory
+]0;F74046438@2015cpp: ~/lab-1[01;32mF74046438@2015cpp[00m:[01;34m~/lab-1[00m$ git clone https://github.com/<F74046438>/lab1.git-1.git
+bash: F74046438: No such file or directory
+]0;F74046438@2015cpp: ~/lab-1[01;32mF74046438@2015cpp[00m:[01;34m~/lab-1[00m$ git clone https://github.com/<F74046438>/lab-1.git[C[1P/lab-1.git[1PF74046438/lab-1.git
+fatal: destination path 'lab-1' already exists and is not an empty directory.
+]0;F74046438@2015cpp: ~/lab-1[01;32mF74046438@2015cpp[00m:[01;34m~/lab-1[00m$ exit
+
+Script done on 2016年03月14日 (週一) 19時53分13秒
